@@ -11,3 +11,4 @@ Secretaria (matrículas, documentos, passe escolar, etc.).
 Área de Estágios (orientação e oportunidades).
 Qualidade de Vida (apoio em casos de bullying, saúde mental, violência).
 AAPM, CIPA, Conselho Escolar e Brigada de Incêndio.
+<img src="CursoSenai.webp">
